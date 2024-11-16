@@ -1,5 +1,4 @@
 
-https://gitea.moe/Fathers/EkfkgH/raw/branch/main/%E7%9F%AD%E5%89%A7.json
 {
   "spider": "https://codeberg.org/lege0001/TVBOX/raw/branch/main/%E7%9F%AD%E5%89%A7/jar/xyqxbpq.jar",
   "sites": [
