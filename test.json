@@ -1,0 +1,14 @@
+{
+    "vod": [
+
+        {
+            "name": "✨毒舌短剧✨",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ysczg/ysc/main/lib/毒舌短剧.json",
+"webSite": "https://www.keke7.app/channel/6.html",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        }
+
+    ]
+}
